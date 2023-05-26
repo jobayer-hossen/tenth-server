@@ -1,0 +1,182 @@
+[
+    {
+        "id": "1",
+        "picture": "https://i.postimg.cc/htxnbSvz/holding-kitchen-spatula-tongs-removebg-preview.png",
+        "name": "Nusret Gökçe",
+        "years_of_experience": "10",
+        "num_of_recipes": "200",
+        "likes": "1000",
+        "short_bio": "Nusret Gökçe, also known as Salt Bae, is a Turkish chef and social media personality. He had a difficult upbringing and dropped out of school at the age of 10. He worked as a butcher's apprentice from age 13 and eventually opened his first Nusr-Et steakhouse in Istanbul in 2010. His signature move of sprinkling salt on meat went viral in January 2017, leading to his nickname 'Salt Bae' and the establishment of a chain of restaurants across the world. He has attracted celebrity clientele and owns a £36m palace in Istanbul, as well as reportedly owning homes in the US.",
+        "recipe_one": {
+            "method": "The cooking method for İskender Kebab involves grilling thin slices of lamb or beef on a vertical spit and then slicing the meat into thin strips. The meat is then placed on a bed of pita bread and topped with a rich tomato sauce and melted butter. The dish is then garnished with yogurt and served with grilled vegetables and rice. The tomato sauce is made by sautéing tomato paste in butter and oil, adding grated tomatoes, and seasoning with salt and spices. The meat can be marinated in a mixture of grated onion, ground beef, salt, and pepper before being grilled. The dish is named after its inventor, İskender Efendi, who created it in the late 19th century in Bursa, Turkey .",
+            "recipe_name": "İskender Kebab",
+            "rating": "4.5",
+            "ingredients": " 1)Pita bread, 2)Tomatoes ,3)Butter , 4)Tomato paste , 5) Olive oil or butter , 6)Salt and black pepper to taste  , 7)Garlic(optional) , 8)Chili flakes or Aleppo-style pepper (optional) .",
+            "recipe_one_photo":"https://images.unsplash.com/photo-1570461226513-e08b58a52c53?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=874&q=80"
+        },
+        "recipe_two": {
+            "method": "The cooking method for Corba, a popular Turkish soup, involves heating oil in a large saucepan over medium heat and adding onions. The onions are cooked until softened and lightly caramelized, and then garlic, dried herbs, and spices are added to the pan. Vegetables such as carrots, potatoes, and tomatoes can also be added to the soup. The ingredients are then simmered in water or broth until the vegetables are tender and the flavors have melded together. The soup can be pureed for a smooth texture or left chunky. Corba is typically served with a squeeze of lemon juice and a sprinkle of fresh herbs such as parsley or dill. Lentil soup is a popular variation of Corba, made with red lentils, onions, and spices .",
+            "recipe_name": "Corba",
+            "rating": "4.2",
+            "ingredients": " 1)Dried vegetable, herb, and spice mix ,2)Sweet paprika , 3)Vegetables (such as carrots, potatoes, and tomatoes) , 4)Fish (for fish soup variation), 5)Salt and black pepper to taste, 6)Lemon juice (for chicken kebab) ,7)Bulgur (for bulgur soup variation) .",
+            "recipe_two_photo" :"https://images.unsplash.com/photo-1579888944880-d98341245702?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+        },
+        "recipe_three": {
+            "method": "The cooking method for Kuzu Tandir, a popular lamb dish in Turkish cuisine, involves slow-cooking lamb shanks over coals for hours in a tandir oven. Tandir is an old method of cooking meat that involves placing the meat in a special oven made from a pit in the soil. The lamb shanks are typically marinated in a mixture of olive oil, lemon juice, black pepper, and salt before being cooked. The meat is cooked until it is tender and falling off the bone. Kuzu Tandir is typically served with bulgur pilaf and grilled vegetables. The dish is a favorite for special occasions and celebrations in Turkey .",
+            "recipe_name": "Kuzu Tandir",
+            "rating": "4.5",
+            "ingredients": " 1)Laurel leaves , 2)Rosemary , 3)Lavash bread or pita bread , 4)Carrots , 5)Green peppers , 6)Lavash bread (for serving) .",
+            "recipe_three_photo" : "https://images.unsplash.com/photo-1542528406-f04308dcf0a1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=790&q=80"
+        }
+    },
+    {
+        "id": "2",
+        "picture": "https://i.postimg.cc/HnRGXKC9/removebg-preview.png",
+        "name": "Burak Özdemir ",
+        "years_of_experience": " 8",
+        "num_of_recipes": "150",
+        "likes": "800",
+        "short_bio": "Burak Özdemir, also known as CZN Burak, is a 28-year-old Turkish chef, restaurateur, social media influencer, television personality, entrepreneur, and businessman. He was born in Yayladağı, Turkey, into a Muslim family of chefs and started working in his dad's restaurant at the age of 13. He later studied at The University of Aleppo. Burak owns the Hatay Medeniyetler Sofrası chain of restaurants that has four branches in Aksaray, Taksim, Etiler, and Dubai. He gained massive popularity on social media after posting a video of him making a 40-inch kebab on 9GAG. Burak is known for his unique style of preparing and presenting recipes, especially in middle eastern cuisine. He has a special affinity for children and is passionate about his work, spreading love wherever he goes by feeding them. His net worth is not available, and not much is known about his personal life.",
+        "recipe_one": {
+            "method": "The cooking method for Manti involves boiling the dumplings in salted water for about 12-15 minutes until they are tender but still hold together when tested. Once cooked, the Manti is strained and served with plain yogurt or yogurt with garlic on a plate. A sauce made with butter, tomato paste, red pepper, and dried mint is prepared in a pan and poured over the Manti. The dish can be stored in the freezer for up to a year and can be cooked in batches as needed. The cooking process is time-consuming and can take about 1-2 hours from start to finish",
+            "recipe_name": "Manti",
+            "rating": "4.5",
+            "ingredients": " 1) Ground beef or lamb , 2)Onion ,3)Flour ,4)Egg ,5)Yogurt .",
+            "recipe_one_photo":"https://images.unsplash.com/photo-1512838243191-e81e8f66f1fd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+        },
+        "recipe_two": {
+            "method": "The cooking method for Köfte, a popular Turkish meatball dish, can vary depending on the recipe. However, a basic Köfte recipe involves combining ground beef or lamb (or a combination of both), bread crumbs, onion, garlic, and spices. The mixture is then shaped into small meatballs and cooked on medium heat until both sides and inside are fully cooked. Some recipes suggest brushing the meatballs with vegetable oil before cooking to prevent them from sticking to the pan. Köfte can also be baked in the oven for 10-15 minutes before grilling them for another 5. Köfte can be served with rice, salad, or bread",
+            "recipe_name": "Köfte",
+            "rating": "4.2",
+            "ingredients": " 1) Ground beef or lamb ,2)Onion , 3)Garlic ,4)Bread crumbs or crumbled bread ,5)Salt and pepper to taste .",
+            "recipe_two_photo":"https://images.unsplash.com/photo-1611515857351-7dbdfd08e1a1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+        },
+        "recipe_three": {
+            "method": "The cooking method for Lahmacun, also known as Turkish pizza, involves making a dough with flour, water, yeast, and olive oil. The dough is then rolled out thinly and topped with a spiced meat mixture made with ground beef or lamb, onion, garlic, tomato paste, and spices such as cumin, paprika, and red pepper flakes. The meat mixture is spread thinly across the dough, and the Lahmacun is baked in the oven until the crust is crispy and the meat is cooked through. Lahmacun can also be cooked on a grill or stovetop. Once cooked, Lahmacun is typically served with a salad made with finely sliced onions, parsley, and lemon juice or mild vinegar",
+            "recipe_name": "Lahmacun",
+            "rating": "4.5",
+            "ingredients": " 1) Flour , 2)Water,3)Tomatoes , 4)Minced meat (lamb or beef) ,5)Olive oil , 6)Salt and pepper to taste .",
+            "recipe_three_photo":"https://images.unsplash.com/photo-1613409385222-3d0decb6742a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+        }
+    },
+    {
+        "id": " 3",
+        "picture": "https://i.postimg.cc/wvjnPHqk/chef-presentingnd-removebg-preview.png",
+        "name": "Şef Ali Ronay",
+        "years_of_experience": "15",
+        "num_of_recipes": "300",
+        "likes": "1200",
+        "short_bio": "Şef Ali Ronay is a prominent Turkish chef who has gained recognition for his innovative take on Mediterranean cuisine. He was born in Antalya, Turkey, in 1979 and grew up in a family of restaurateurs. He attended the Bilkent University's Faculty of Economics, Administrative and Social Sciences and later worked in the finance industry. However, his passion for cooking eventually led him to pursue a career in the culinary arts. He attended the Istanbul Culinary Institute and worked in some of Istanbul's top restaurants before opening his own restaurant, Ali Ocakbaşı, in 2014. His restaurant is known for its creative and contemporary approach to Turkish and Mediterranean cuisine. Şef Ali Ronay has also gained recognition for his appearances on several cooking shows and competitions.",
+        "recipe_one": {
+            "method": "The cooking method for Pide, a Turkish flatbread pizza, involves making a dough from flour, yeast, salt, and water, and then letting it rise for an hour. The dough is then rolled out into an oval shape and topped with various ingredients such as minced meat, cheese, vegetables, and herbs. The edges of the dough are then folded in to create a boat shape, and the Pide is baked in a hot oven until the crust is golden brown and the cheese is melted. Traditionally, Pide is cooked in a stone oven, but it can also be baked in a regular oven at home. To reheat Pide, it can be heated in a pan with a lid over medium-low heat or in a preheated oven .",
+            "recipe_name": "Pide ",
+            "rating": "4.5",
+            "ingredients": " 1)Lukewarm water , 2)Sugar ,3)Sweet green peppers , 4)Minced meat  , 5) Parsley  , 6)Salt and black pepper to taste  , 7)Mozzarella cheese , 8)Nigella seeds .",
+            "recipe_one_photo" : "https://images.unsplash.com/photo-1653983736416-6f775b329925?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+        },
+        "recipe_two": {
+            "method": "The cooking method for Meze, a Mediterranean and Middle Eastern style of eating that involves an assortment of small dishes eaten as appetizers or a light meal, involves preparing a variety of dishes that can be served cold or hot. The dishes can include dips such as hummus and tzatziki, salads such as tabbouleh and fattoush, grilled meats such as kebabs and kofta, and fried or baked dishes such as falafel and borek. The dishes can be served on a platter or board and shared among guests. Meze can be prepared ahead of time and served at room temperature, making it a great option for entertaining. The ingredients for Meze can vary depending on the recipe and personal preference .",
+            "recipe_name": "Meze",
+            "rating": "4.2",
+            "ingredients": " 1)Bread (such as pita or flatbread) , 2)Dips (such as hummus, baba ganoush, tzatziki, and muhammara) , 3)Cheese (such as feta or halloumi) , 4)Fruits (such as grapes, figs, and pomegranate seeds), 5)Nuts (such as almonds, pistachios, and walnuts) , 6)Meat (such as kebabs or meatballs) ,7)Herbs (such as parsley, mint, and dill) .",
+            "recipe_two_photo":"https://images.unsplash.com/photo-1542528180-0c79567c66de?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=857&q=80"
+        },
+        "recipe_three": {
+            "method": "The cooking method for Çiğ Köfte, a traditional Turkish dish made with bulgur and spices, involves soaking the bulgur in boiling water with a little bit of salt for 10 minutes until it becomes soft. The bulgur is then mixed with a spicy paste made from tomato paste, red pepper paste, and spices such as cumin, paprika, and mint. The mixture is kneaded by hand for at least 20 minutes until it becomes a smooth and pliable dough. The dough is then shaped into small balls or patties and served with lettuce leaves, lemon wedges, and fresh herbs such as parsley and mint. Çiğ Köfte is typically eaten as a snack or appetizer and is a popular street food in Turkey .",
+            "recipe_name": "Çiğ Köfte",
+            "rating": "4.5",
+            "ingredients": " 1)Minced meat (optional) , 2)Garlic, 3)Red pepper paste , 4)Carrots , 5)Green peppers , 6)Lavash bread (for serving) .",
+            "recipe_three_photo":"https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+        }
+    },
+    {
+        "id": "4",
+        "picture": "https://i.postimg.cc/qqvhz1sL/pexels-miquel-ferran-gomez-figueroa-3814446-removebg-preview.png",
+        "name": "İsmet Saz",
+        "years_of_experience": " 5",
+        "num_of_recipes": "100",
+        "likes": "500",
+        "short_bio": "İsmet Saz is a well-known Turkish chef who has gained recognition for his culinary skills and innovative approach to traditional Turkish cuisine. He was born in Turkey in 1975 and grew up in a family of restaurateurs. He began his culinary career by working in his family's restaurants and later attended the Istanbul Culinary Institute.After graduation, İsmet worked in some of Istanbul's top restaurants, honing his skills and developing his unique approach to cooking. He is known for his creative and contemporary take on traditional Turkish cuisine, using fresh and seasonal ingredients to create dishes that are both familiar and innovative.İsmet has also gained recognition for his appearances on several cooking shows and competitions. He has won numerous awards and accolades, including the 'Best Chef of the Year' award from the Istanbul-based Time Out magazine. He has also authored several cookbooks, sharing his culinary knowledge and passion with his readers.Today, İsmet Saz is considered one of the most talented and influential chefs in Turkey. He continues to innovate and experiment with Turkish cuisine, bringing new and exciting flavors to the table.",
+        "recipe_one": {
+            "method": "The cooking method for İskender Kebab involves grilling thin slices of lamb or beef on a vertical spit and then slicing the meat into thin strips. The meat is then placed on a bed of pita bread and topped with a rich tomato sauce and melted butter. The dish is then garnished with yogurt and served with grilled vegetables and rice. The tomato sauce is made by sautéing tomato paste in butter and oil, adding grated tomatoes, and seasoning with salt and spices. The meat can be marinated in a mixture of grated onion, ground beef, salt, and pepper before being grilled. The dish is named after its inventor, İskender Efendi, who created it in the late 19th century in Bursa, Turkey .",
+            "recipe_name": "İskender Kebab",
+            "rating": "4.5",
+            "ingredients": " 1)Pita bread, 2)Tomatoes ,3)Butter , 4)Tomato paste , 5) Olive oil or butter , 6)Salt and black pepper to taste  , 7)Garlic(optional) , 8)Chili flakes or Aleppo-style pepper (optional) .",
+            "recipe_one_photo":"https://images.unsplash.com/photo-1432139555190-58524dae6a55?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=876&q=80"
+        },
+        "recipe_two": {
+            "method": "The cooking method for Corba, a popular Turkish soup, involves heating oil in a large saucepan over medium heat and adding onions. The onions are cooked until softened and lightly caramelized, and then garlic, dried herbs, and spices are added to the pan. Vegetables such as carrots, potatoes, and tomatoes can also be added to the soup. The ingredients are then simmered in water or broth until the vegetables are tender and the flavors have melded together. The soup can be pureed for a smooth texture or left chunky. Corba is typically served with a squeeze of lemon juice and a sprinkle of fresh herbs such as parsley or dill. Lentil soup is a popular variation of Corba, made with red lentils, onions, and spices .",
+            "recipe_name": "Corba",
+            "rating": "4.2",
+            "ingredients": " 1)Dried vegetable, herb, and spice mix ,2)Sweet paprika , 3)Vegetables (such as carrots, potatoes, and tomatoes) , 4)Fish (for fish soup variation), 5)Salt and black pepper to taste, 6)Lemon juice (for chicken kebab) ,7)Bulgur (for bulgur soup variation) .",
+            "recipe_two_photo":"https://images.unsplash.com/photo-1628578569073-8ee77295315d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=873&q=80"
+        },
+        "recipe_three": {
+            "method": "The cooking method for Kuzu Tandir, a popular lamb dish in Turkish cuisine, involves slow-cooking lamb shanks over coals for hours in a tandir oven. Tandir is an old method of cooking meat that involves placing the meat in a special oven made from a pit in the soil. The lamb shanks are typically marinated in a mixture of olive oil, lemon juice, black pepper, and salt before being cooked. The meat is cooked until it is tender and falling off the bone. Kuzu Tandir is typically served with bulgur pilaf and grilled vegetables. The dish is a favorite for special occasions and celebrations in Turkey .",
+            "recipe_name": "Kuzu Tandir",
+            "rating": "4.5",
+            "ingredients": " 1)Laurel leaves , 2)Rosemary , 3)Lavash bread or pita bread , 4)Carrots , 5)Green peppers , 6)Lavash bread (for serving) .",
+            "recipe_three_photo":"https://images.unsplash.com/photo-1452967712862-0cca1839ff27?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+        }
+    },
+    {
+        "id": "5",
+        "picture": "https://i.postimg.cc/85dBhrQK/happy-youngebg-preview.png",
+        "name": "Kemal Demirasal",
+        "years_of_experience": "12",
+        "num_of_recipes": "250",
+        "likes": "900",
+        "short_bio": "Turkish chef Kemal Demirasal is well known for his creative take on traditional Turkish food. He was born in Izmir, Turkey, in 1975 and earned his degree in business administration from Dokuz Eylul University. He spent some time working in the finance sector before deciding to pursue his love of cooking and enrolling at the Istanbul Culinary Institute. His first restaurant, Alancha, which he launched in Istanbul in 2007 and which immediately became well-known for its distinctive approach to Turkish food. ",
+        "recipe_one": {
+            "method": "The cooking method for Menemen, a popular Turkish breakfast dish, involves heating oil in a heavy-based frying pan and adding onions, peppers, and chillies. The vegetables are cooked until they begin to soften, and then tomatoes and sugar are added to the pan. The mixture is cooked until the liquid has reduced, and then eggs are cracked into the tomato mixture. The pan is covered, and the eggs are cooked over low heat until just set. The Menemen is then sprinkled with parsley and served from the frying pan with a dollop of garlic-flavored yogurt. The seasoning for Menemen is quite simple and often includes a dash of salt and pepper",
+            "recipe_name": "Menemen",
+            "rating": "4.5",
+            "ingredients": " 1)Eggs , 2)Tomatoes ,3)Peppers (such as green or bell peppers) , 4)Onion (optional) , 5) Olive oil or butter , 6)Salt and black pepper to taste  , 7)Garlic(optional) , 8)Chili flakes or Aleppo-style pepper (optional) , 9)Fresh herbs (such as parsley, basil, or chives) for serving .",
+            "recipe_one_photo":"https://images.unsplash.com/photo-1543392883-914cfa6f9ed4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+        },
+        "recipe_two": {
+            "method": "The cooking method for Şiş Kebap, a popular Turkish dish, involves marinating meat (such as beef, lamb, or chicken) in a mixture of olive oil, milk, tomato paste, and spices (such as red pepper flakes, salt, and black pepper). The meat is then skewered and grilled over an open flame or on a barbecue until it is cooked through and slightly charred. The skewers are often served with rice, salad, or bread. The key to great Şiş Kebap is in the quality of the meat and the flavor imparted by the marinade. The preparation starts with dicing the meat into equally-sized pieces, which are then tossed in the marinade. The meat can be marinated for several hours or overnight to allow the flavors to develop. Şiş Kebap can be made with beef, lamb, or chicken, and it is often served with grilled vegetables such as onions, peppers, and tomatoes .",
+            "recipe_name": "Şiş Kebap",
+            "rating": "4.2",
+            "ingredients": " 1)Beef, lamb, or chicken ,2)Tail fat (optional), 3)Milk or yogurt ,4)Red pepper flakes , 5)Salt and black pepper to taste, 6)Lemon juice (for chicken kebab) . ",
+            "recipe_two_photo":"https://images.unsplash.com/photo-1608835149345-b4d77bc490ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80"
+        },
+        "recipe_three": {
+            "method": "The cooking method for Döner Kebab involves stacking thinly sliced meat (usually lamb or a mixture of lamb and beef) on a vertical spit and cooking it rotisserie-style. As the outer layers of the meat cook, they are shaved off and served in a pita or other flatbread with vegetables and sauce. The edges of the meat get deliciously charred and crispy, while the rest is glisteningly fatty and moist. Döner Kebab is the 'mother', as it were, of Arabic shawarma, Mexican al pastor, and the popular Greek gyro. To make Döner Kebab at home, the meat can be seasoned and cooked in a loaf pan, then sliced thinly and served in a pita or other flatbread with vegetables and sauce. Alternatively, the meat can be skewered and grilled on a barbecue or cooked in the oven .",
+            "recipe_name": "Döner ",
+            "rating": "4.5",
+            "ingredients": " 1) Milk, 2)Fat (such as lamb tail fat), 3)Lavash bread or pita bread , 4)Minced meat (lamb or beef) , 5)Yogurt , 6)Sauce (such as tzatziki or tahini) .",
+            "recipe_three_photo":"https://images.unsplash.com/photo-1527751171053-6ac5ec50000b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+        }
+    },
+    {
+        "id": "6",
+        "picture": "https://i.postimg.cc/wxGhvYg6/confident-young-handsome-cook-chef-uniforlated-white-wall-removebg-preview.png",
+        "name": "Mehmet Gürs",
+        "years_of_experience": "7",
+        "num_of_recipes": "120",
+        "likes": "600",
+        "short_bio": "Gürs was born in Finland to a Turkish father and a Finnish-Swedish mother and grew up in Stockholm and Istanbul. He spent eight years training and working as a chef in the United States; from 1990 to 1993 he studied Hotel, Restaurant and Institutional Management at Johnson & Wales University.",
+        "recipe_one": {
+            "method": "The cooking method for Manti involves boiling the dumplings in salted water for about 12-15 minutes until they are tender but still hold together when tested. Once cooked, the Manti is strained and served with plain yogurt or yogurt with garlic on a plate. A sauce made with butter, tomato paste, red pepper, and dried mint is prepared in a pan and poured over the Manti. The dish can be stored in the freezer for up to a year and can be cooked in batches as needed. The cooking process is time-consuming and can take about 1-2 hours from start to finish",
+            "recipe_name": "Manti",
+            "rating": "4.5",
+            "ingredients": " 1) Ground beef or lamb , 2)Onion ,3)Flour ,4)Egg ,5)Yogurt .",
+            "recipe_one_photo":"https://images.unsplash.com/photo-1529006557810-274b9b2fc783?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=876&q=80"
+        },
+        "recipe_two": {
+            "method": "The cooking method for Köfte, a popular Turkish meatball dish, can vary depending on the recipe. However, a basic Köfte recipe involves combining ground beef or lamb (or a combination of both), bread crumbs, onion, garlic, and spices. The mixture is then shaped into small meatballs and cooked on medium heat until both sides and inside are fully cooked. Some recipes suggest brushing the meatballs with vegetable oil before cooking to prevent them from sticking to the pan. Köfte can also be baked in the oven for 10-15 minutes before grilling them for another 5. Köfte can be served with rice, salad, or bread",
+            "recipe_name": "Köfte",
+            "rating": "4.2",
+            "ingredients": " 1) Ground beef or lamb ,2)Onion , 3)Garlic ,4)Bread crumbs or crumbled bread ,5)Salt and pepper to taste .",
+            "recipe_two_photo":"https://images.unsplash.com/photo-1566740932818-cacfb780ae18?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+        },
+        "recipe_three": {
+            "method": "The cooking method for Lahmacun, also known as Turkish pizza, involves making a dough with flour, water, yeast, and olive oil. The dough is then rolled out thinly and topped with a spiced meat mixture made with ground beef or lamb, onion, garlic, tomato paste, and spices such as cumin, paprika, and red pepper flakes. The meat mixture is spread thinly across the dough, and the Lahmacun is baked in the oven until the crust is crispy and the meat is cooked through. Lahmacun can also be cooked on a grill or stovetop. Once cooked, Lahmacun is typically served with a salad made with finely sliced onions, parsley, and lemon juice or mild vinegar",
+            "recipe_name": "Lahmacun",
+            "rating": "4.5",
+            "ingredients": " 1) Flour , 2)Water,3)Tomatoes , 4)Minced meat (lamb or beef) ,5)Olive oil , 6)Salt and pepper to taste .",
+            "recipe_three_photo":"https://images.unsplash.com/photo-1628294896516-344152572ee8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+        }
+    }
+]
